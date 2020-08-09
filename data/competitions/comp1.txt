@@ -1,0 +1,7 @@
+comp1
+Art Maestro
+Fine Arts Competition
+300
+1
+40
+5000 3000 

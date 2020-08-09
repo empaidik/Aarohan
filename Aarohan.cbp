@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Aarohan" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Aarohan" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/COMPETITIONLIST.h" />
+		<Unit filename="include/Color.h" />
+		<Unit filename="include/Competition.h" />
+		<Unit filename="include/LOGIN.h" />
+		<Unit filename="include/MAIN.h" />
+		<Unit filename="include/PAGE.h" />
+		<Unit filename="include/Person.h" />
+		<Unit filename="include/REGISTRATION.h" />
+		<Unit filename="include/USER.h" />
+		<Unit filename="include/libraries.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/pages.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="src/COMPETITIONLIST.cpp" />
+		<Unit filename="src/Competition.cpp" />
+		<Unit filename="src/LOGIN.cpp" />
+		<Unit filename="src/MAIN.cpp" />
+		<Unit filename="src/PAGE.cpp" />
+		<Unit filename="src/Person.cpp" />
+		<Unit filename="src/REGISTRATION.cpp" />
+		<Unit filename="src/USER.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

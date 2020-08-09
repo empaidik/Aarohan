@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1596384774 source:d:\c++\java\aarohan\main.cpp
+	<PAGE.h>
+	<Color.h>
+	<MAIN.h>
+	<COMPETITIONLIST.h>
+	<LOGIN.h>
+	<REGISTRATION.h>
+	<ctime>
+	<cstdlib>
+
+1596132874 source:d:\c++\java\aarohan\src\page.cpp
+	"PAGE.h"
+	"libraries.h"
+	"pages.h"
+
+1596102068 d:\c++\java\aarohan\include\page.h
+	"libraries.h"
+
+1596384697 source:d:\c++\java\aarohan\src\login.cpp
+	"LOGIN.h"
+	"libraries.h"
+
+1596127753 d:\c++\java\aarohan\include\login.h
+	<PAGE.h>
+	<Color.h>
+
+1596116824 source:d:\c++\java\aarohan\src\main.cpp
+	"MAIN.h"
+	"libraries.h"
+
+1596104191 d:\c++\java\aarohan\include\main.h
+	<PAGE.h>
+	<Color.h>
+	"libraries.h"
+
+1596318079 source:d:\c++\java\aarohan\src\registration.cpp
+	"REGISTRATION.h"
+	<iostream>
+	<Person.h>
+	<LOGIN.h>
+
+1596102368 d:\c++\java\aarohan\include\registration.h
+	<PAGE.h>
+
+1596314365 d:\c++\java\aarohan\include\libraries.h
+	<windows.h>
+	<dos.h>
+	<fstream>
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<fstream>
+
+1596132881 d:\c++\java\aarohan\include\pages.h
+	"LOGIN.h"
+	"MAIN.h"
+	"REGISTRATION.h"
+	"USER.h"
+	"COMPETITIONLIST.h"
+
+1596104146 d:\c++\java\aarohan\include\color.h
+
+1596384737 d:\c++\java\aarohan\include\user.h
+	<PAGE.h>
+	<Color.h>
+	"libraries.h"
+
+1596384842 source:d:\c++\java\aarohan\src\user.cpp
+	"User.h"
+
+1596311809 source:d:\c++\java\aarohan\src\competition.cpp
+	"Competition.h"
+	"libraries.h"
+
+1596311703 d:\c++\java\aarohan\include\competition.h
+	<vector>
+	<string>
+	"libraries.h"
+	<Color.h>
+
+1596385031 source:d:\c++\java\aarohan\src\competitionlist.cpp
+	"COMPETITIONLIST.h"
+	"libraries.h"
+
+1596311228 d:\c++\java\aarohan\include\competitionlist.h
+	<PAGE.h>
+	<Color.h>
+	"Competition.h"
+	"libraries.h"
+
+1596383398 source:d:\c++\java\aarohan\src\person.cpp
+	"Person.h"
+
+1596317405 d:\c++\java\aarohan\include\person.h
+	"libraries.h"
+
